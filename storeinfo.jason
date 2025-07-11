@@ -1,0 +1,12 @@
+{
+  "basicInfo": {
+    "storeName": "テスト店舗",
+    "description": "テスト説明"
+  },
+  "features": ["テスト特徴1", "テスト特徴2"],
+  "businessHours": {
+    "regular": {
+      "weekdays": "9:00-18:00"
+    }
+  }
+}
